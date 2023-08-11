@@ -56,10 +56,4 @@ contract MetaProject {
     function getContractBalance() public view returns (uint256) {
         return address(this).balance;
     }
-
-    function BuyNFT(uint256 _number) public {
-        withdraw(_number);
-
-        emit buyNFT(_number);
-    }
 }
