@@ -1,3 +1,5 @@
+# To run this project on your computer.
+
 1. Inside the project directory, in the terminal type: npm i
 2. Open two additional terminals in your VS code
 3. In the second terminal type: npx hardhat node
