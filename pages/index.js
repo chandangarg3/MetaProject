@@ -11,7 +11,7 @@ export default function HomePage() {
 
   const [buyNFT, setbuyNFT] = useState("");
 
-  const contractAddress = "0xBdC2b3F8C5bcD545d9cbC676e3F9E25720700083";
+  const contractAddress = "0x77f98EC6fE91A4A507968C01753B35970c9d8A05";
   const atmABI = atm_abi.abi;
 
   const getWallet = async () => {
