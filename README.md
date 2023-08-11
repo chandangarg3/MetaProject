@@ -1,4 +1,4 @@
-# Simple Contract DApp
+# MetaProject
 
 This is a simple decentralized application (DApp) that interacts with a Solidity smart contract deployed on the Goreli network.
 
